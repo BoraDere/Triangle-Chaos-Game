@@ -39,6 +39,6 @@ Third run was made with 10000 points with diameter of 3 pixels. It took 2854 sec
 
 ------------
 #### Fourth run:
-Third run was made with 30000 points with diameter of 3 pixels for that extra crispiness. It took 9611 seconds (~160 minutes) on my computer.
+Fourth run was made with 30000 points with diameter of 3 pixels for that extra crispiness. It took 9611 seconds (~160 minutes) on my computer.
 
 [![https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/4th%20-%209611%20seconds%20-%2030000.png](https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/4th%20-%209611%20seconds%20-%2030000.png "https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/4th%20-%209611%20seconds%20-%2030000.png")](https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/4th%20-%209611%20seconds%20-%2030000.png "https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/4th%20-%209611%20seconds%20-%2030000.png")
