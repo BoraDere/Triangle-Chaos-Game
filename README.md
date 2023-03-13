@@ -9,7 +9,7 @@ This simple code creates triangle fractals by using the chaos theory.
 1. Repeat steps 3 and 4 until it makes a goofy triangle fractal.
 
 ### Requirements
-Python Turtle is required to run this code. Simply install it with`pip install PythonTurtle`
+Python Turtle is required to run this code. Simply install it with `pip install PythonTurtle`
 
 ------------
 
