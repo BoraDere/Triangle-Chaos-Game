@@ -19,7 +19,7 @@ Python Turtle is required to run this code. Simply install it with`pip install P
 #### First run:
 First run was made with 3.000 points with diameter of 5 pixels. It took 831 seconds (~14 minutes) on my computer. (Yes first run was not centered :P)
 
-[![https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png "1st - 831 seconds - 3000](https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png "1st - 831 seconds - 3000 "https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png "1st - 831 seconds - 3000")](http://https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png "1st - 831 seconds - 3000 "https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png "1st - 831 seconds - 3000")
+[![https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png](https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png "https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png")](https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png "https://raw.githubusercontent.com/BoraDere/Triangle-Chaos-Game/main/1st%20-%20831%20seconds%20-%203000.png")
 
 ------------
 
